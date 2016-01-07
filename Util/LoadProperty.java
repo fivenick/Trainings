@@ -1,3 +1,7 @@
+
+读取java中的.property配置文件的读取程序
+
+
 package com.tigerknows.config;
 
 import java.io.BufferedInputStream;
